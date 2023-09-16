@@ -1,0 +1,11 @@
+C:\Users\VANGA MONESH\source\repos\Iterator-Design-Pattern\NavigatingTVChannels\bin\Debug\net6.0\NavigatingTVChannels.deps.json
+C:\Users\VANGA MONESH\source\repos\Iterator-Design-Pattern\NavigatingTVChannels\bin\Debug\net6.0\NavigatingTVChannels.dll
+C:\Users\VANGA MONESH\source\repos\Iterator-Design-Pattern\NavigatingTVChannels\bin\Debug\net6.0\NavigatingTVChannels.pdb
+C:\Users\VANGA MONESH\source\repos\Iterator-Design-Pattern\NavigatingTVChannels\obj\Debug\net6.0\NavigatingTVChannels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VANGA MONESH\source\repos\Iterator-Design-Pattern\NavigatingTVChannels\obj\Debug\net6.0\NavigatingTVChannels.AssemblyInfoInputs.cache
+C:\Users\VANGA MONESH\source\repos\Iterator-Design-Pattern\NavigatingTVChannels\obj\Debug\net6.0\NavigatingTVChannels.AssemblyInfo.cs
+C:\Users\VANGA MONESH\source\repos\Iterator-Design-Pattern\NavigatingTVChannels\obj\Debug\net6.0\NavigatingTVChannels.csproj.CoreCompileInputs.cache
+C:\Users\VANGA MONESH\source\repos\Iterator-Design-Pattern\NavigatingTVChannels\obj\Debug\net6.0\NavigatingTVChannels.dll
+C:\Users\VANGA MONESH\source\repos\Iterator-Design-Pattern\NavigatingTVChannels\obj\Debug\net6.0\refint\NavigatingTVChannels.dll
+C:\Users\VANGA MONESH\source\repos\Iterator-Design-Pattern\NavigatingTVChannels\obj\Debug\net6.0\NavigatingTVChannels.pdb
+C:\Users\VANGA MONESH\source\repos\Iterator-Design-Pattern\NavigatingTVChannels\obj\Debug\net6.0\ref\NavigatingTVChannels.dll
