@@ -1,0 +1,11 @@
+D:\Downloads\Iterator_Design_Pattern-main\Iterator_Design_Pattern-main\NavigatingTVChannels\bin\Debug\net6.0\NavigatingTVChannels.deps.json
+D:\Downloads\Iterator_Design_Pattern-main\Iterator_Design_Pattern-main\NavigatingTVChannels\bin\Debug\net6.0\NavigatingTVChannels.dll
+D:\Downloads\Iterator_Design_Pattern-main\Iterator_Design_Pattern-main\NavigatingTVChannels\bin\Debug\net6.0\NavigatingTVChannels.pdb
+D:\Downloads\Iterator_Design_Pattern-main\Iterator_Design_Pattern-main\NavigatingTVChannels\obj\Debug\net6.0\NavigatingTVChannels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Iterator_Design_Pattern-main\Iterator_Design_Pattern-main\NavigatingTVChannels\obj\Debug\net6.0\NavigatingTVChannels.AssemblyInfoInputs.cache
+D:\Downloads\Iterator_Design_Pattern-main\Iterator_Design_Pattern-main\NavigatingTVChannels\obj\Debug\net6.0\NavigatingTVChannels.AssemblyInfo.cs
+D:\Downloads\Iterator_Design_Pattern-main\Iterator_Design_Pattern-main\NavigatingTVChannels\obj\Debug\net6.0\NavigatingTVChannels.csproj.CoreCompileInputs.cache
+D:\Downloads\Iterator_Design_Pattern-main\Iterator_Design_Pattern-main\NavigatingTVChannels\obj\Debug\net6.0\NavigatingTVChannels.dll
+D:\Downloads\Iterator_Design_Pattern-main\Iterator_Design_Pattern-main\NavigatingTVChannels\obj\Debug\net6.0\refint\NavigatingTVChannels.dll
+D:\Downloads\Iterator_Design_Pattern-main\Iterator_Design_Pattern-main\NavigatingTVChannels\obj\Debug\net6.0\NavigatingTVChannels.pdb
+D:\Downloads\Iterator_Design_Pattern-main\Iterator_Design_Pattern-main\NavigatingTVChannels\obj\Debug\net6.0\ref\NavigatingTVChannels.dll

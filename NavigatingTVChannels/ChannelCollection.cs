@@ -8,7 +8,7 @@ namespace NavigatingTVChannels
 {
     public class ChannelCollection : IChannelCollection
     {
-        private List<Channel> _channelsList;
+        private readonly List<Channel> _channelsList;
         public ChannelCollection()
         {
             _channelsList = new List<Channel>();
